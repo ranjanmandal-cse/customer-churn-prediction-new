@@ -2,7 +2,7 @@
 
 ## Problem
 
-Telecom companies lose significant revenue when customers churn (cancel their subscription), and acquiring a new customer typically costs far more than retaining an existing one. Without a way to flag at-risk customers early, retention teams are stuck reacting after the customer has already left — instead of intervening in time with offers, outreach, or fixes, built on the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
+Telecom companies lose significant revenue when customers churn (cancel their subscription), and acquiring a new customer typically costs far more than retaining an existing one. Without a way to flag at-risk customers early, retention teams are stuck reacting after the customer has already left — instead of intervening in time with offers, outreach, or fixes and it is built on the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
 ## Solution
 
