@@ -21,6 +21,17 @@ This project walks through the full ML lifecycle:
 - **Explainability** — SHAP values to interpret individual predictions
 - **Inference** — a reusable `make_prediction()` function for single and batch predictions, with the model/encoders/scaler persisted via `pickle`
 
+## Tech Stack
+
+- **Language:** Python
+- **Data Handling:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn (Logistic Regression, Random Forest), XGBoost
+- **Class Imbalance:** imbalanced-learn (SMOTE)
+- **Model Explainability:** SHAP
+- **Model Persistence:** Pickle
+- **Environment:** Jupyter Notebook
+
 ## Results
 
 - **Best model:** Random Forest
