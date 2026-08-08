@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Saved models / large artifacts (uncomment if you don't want to track these)
+# *.pkl
+
+# Data (uncomment if you don't want to commit the raw dataset)
+# *.csv
