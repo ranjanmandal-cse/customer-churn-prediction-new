@@ -1,6 +1,12 @@
 # 📊 Customer Churn Prediction — End-to-End ML Project
 
-An end-to-end machine learning pipeline that predicts whether a telecom customer will churn, built on the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
+## Problem
+
+Telecom companies lose significant revenue when customers churn (cancel their subscription), and acquiring a new customer typically costs far more than retaining an existing one. Without a way to flag at-risk customers early, retention teams are stuck reacting after the customer has already left — instead of intervening in time with offers, outreach, or fixes, built on the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
+
+## Solution
+
+This project builds a machine learning model that predicts, ahead of time, which customers are likely to churn based on their account details, service usage, and billing history. It goes beyond just training a model — the pipeline handles class imbalance (churners are the minority class), tunes multiple algorithms to find the best performer, and uses SHAP to explain *why* the model flags a given customer, so the output is actionable rather than a black box. The result is a reusable prediction function retention teams could plug into a workflow to prioritize outreach to high-risk customers. 
 
 ## Overview
 
