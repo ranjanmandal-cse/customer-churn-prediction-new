@@ -21,6 +21,8 @@ This project walks through the full ML lifecycle:
 - **Test accuracy:** ~78%
 - **ROC-AUC:** ~0.74
 
+## Charts ![Confusion Matrix](Images/confusion_matrix.png) ![ROC Curve](Images/roc_curve.png) ![Feature Importance](Images/feature_importance.png) ![SHAP Summary](Images/shap_summary.png)
+
 ## Project Structure
 
 ```
